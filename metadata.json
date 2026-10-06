@@ -1,0 +1,7 @@
+{
+  "name": "AlphaQuant Pro",
+  "description": "Enterprise-grade automated algorithmic trading dashboard with multi-broker integration, 20+ technical indicators, Smart Money Concepts (SMC), and institutional risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
